@@ -5,6 +5,10 @@
   --black: #171717;
   --gray: #525252;
   --gradient: linear-gradient(-64deg, #D2D6DB 0%, #F9FAFB 100%);
+  --blue: #4338CA;
+  --dark-green: #15803D;
+  --green: #BBF7D0;
+  --light-green: #F0FDF4;
   --border: #E6E6E6;
   font-family: "Noto Sans", sans-serif;
   color: var(--black);
