@@ -1,8 +1,10 @@
-# React + Vite
+# Blog Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple blog card that displays the details of a blog article. Made for GreateFrontend challenge :)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Design fidelity**: Aim to follow the design as closely as possible. All elements in the design should be present, using the specified text color, font size, font weight, spacing, dimensions, etc.
+- **Link interactivity**: Implement and style links to reflect different states - normal, hover and focus.
+- **Placeholders**: You may leave the redirection links empty for any unspecified buttons or links.
+- **Cross-browser compatibility**: Check that your solution works for major browsers including Chrome, Firefox and Safari.
+- **[Stretch goal] Performance optimization**: Optimize image assets and code for quick load times, ensuring a smooth and responsive user experience.
+- **[Stretch goal] Accessibility and semantics**: Follow best practices for web accessibility, such as using semantic HTML and ARIA roles where necessary and using proper `alt` tags for images.
